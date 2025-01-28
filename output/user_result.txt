@@ -1,0 +1,54 @@
+🕘️更新时间,#genre#
+2025-01-29 02:03:16,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+
+🌊港·澳·台,#genre#
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+翡翠台,http://mzitv.cn:32/tsfile/live/1016_1.m3u8
+翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+凤凰中文,http://120.55.49.231:3095/rtp/233.50.200.191:5140
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://120.55.49.231:3095/rtp/233.50.200.192:5140
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
+纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来育乐,rtmp://220.130.201.73/sat/tv701
+Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+
+🎬电影频道,#genre#
+CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
+CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
+CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8
+CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+黑莓电影,http://home.dzlove.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
+IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
+无线星河,https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
+星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
