@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-01-29 18:18:50,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+2025-01-30 06:12:27,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,http://mzitv.cn:32/tsfile/live/1016_1.m3u8
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
@@ -35,7 +34,7 @@ CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
 黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 黑莓电影,http://home.dzlove.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
+经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空卫视,http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
@@ -46,9 +45,9 @@ HBO,https://cdn.iptv8k.top/dl/jrys.php?id=383&time=20240926215313&ip=111.229.253
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 HBO,http://212.102.60.231/HBO/index.m3u8
 HBO,https://fl2.moveonjoy.com/HBO/index.m3u8
-HBO,http://rr3.vipshara-iptv.com/~210f24bf09f5d96bbad80adfe5f6275547d/53629/hls/pl.m3u8
 HBO,http://ku9.fr.to/smt.php?id=hbohd_twn
+HBO,http://rr3.vipshara-iptv.com/~210f24bf09f5d96bbad80adfe5f6275547d/53629/hls/pl.m3u8
 HBO,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-AMC,https://amchls.wns.live/hls/stream.m3u8
 AMC,http://170.254.18.106/AMC/index.m3u8
+AMC,https://amchls.wns.live/hls/stream.m3u8
 AMC,http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4248/stream.m3u8

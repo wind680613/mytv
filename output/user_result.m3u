@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🕘️更新时间",2025-01-29 18:18:50
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🕘️更新时间",2025-01-30 06:12:27
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
-http://mzitv.cn:32/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -63,8 +61,8 @@ http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-65474192
 http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://home.dzlove.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
-http://139.129.231.228:50060/rtp/239.21.1.124:5002
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
+http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
@@ -86,14 +84,14 @@ http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🎬电影频道",HBO
 https://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🎬电影频道",HBO
-http://rr3.vipshara-iptv.com/~210f24bf09f5d96bbad80adfe5f6275547d/53629/hls/pl.m3u8
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🎬电影频道",HBO
 http://ku9.fr.to/smt.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🎬电影频道",HBO
+http://rr3.vipshara-iptv.com/~210f24bf09f5d96bbad80adfe5f6275547d/53629/hls/pl.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🎬电影频道",HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC.png" group-title="🎬电影频道",AMC
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC.png" group-title="🎬电影频道",AMC
 http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC.png" group-title="🎬电影频道",AMC
+https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC.png" group-title="🎬电影频道",AMC
 http://cdnua03.hls.tv/524/hls/bce039e22cfeb8b5e1acfe0b5037ce48/4248/stream.m3u8
