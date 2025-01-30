@@ -2,3 +2,4 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
